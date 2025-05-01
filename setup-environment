@@ -20,7 +20,7 @@ fi
 
 cat <<EOF >> $PWD/conf/local.conf
 
-MACHINE = "bananapi-m2plus"
+MACHINE = "bananapi-m2ultra"
 DISTRO = "beaveros"
 INHERIT += "rm_work"
 
